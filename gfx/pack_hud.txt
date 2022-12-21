@@ -1,0 +1,25 @@
+pack_hud.png
+format: RGBA8888
+filter: MipMapLinearNearest,Linear
+repeat: none
+ico_play
+  rotate: false
+  xy: 58, 0
+  size: 54, 64
+  orig: 64, 64
+  offset: 6, 0
+  index: -1
+loading
+  rotate: false
+  xy: 0, 64
+  size: 256, 64
+  orig: 256, 64
+  offset: 0, 0
+  index: -1
+ico_pause
+  rotate: false
+  xy: 0, 0
+  size: 58, 60
+  orig: 64, 64
+  offset: 4, 3
+  index: -1

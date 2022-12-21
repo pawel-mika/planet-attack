@@ -1,0 +1,8 @@
+The goal of the game is to take over all of the planets controlled by computer.
+You can attack them simply by dragging your finger from your planet to the target planet.
+When in need, you can transfer resources between your planets - just drag! Transfer takes
+50% of resources and ships from the source planet and sends them to the target. If the
+target changed owner during the transfer, transferred ships are used to try win the planet
+back (when not succeded, enemy takes transferred resources!).
+By single-tapping your planet you select it to be a part of multi-planet action. You can 
+then drag a finger from one of the selected planets to the target planet (yours or the enemy).

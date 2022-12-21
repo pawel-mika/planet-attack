@@ -1,0 +1,18 @@
+pack_title.png
+format: RGBA8888
+filter: MipMapLinearNearest,Linear
+repeat: none
+title_logo
+  rotate: false
+  xy: 2, 22
+  size: 316, 132
+  orig: 320, 140
+  offset: 2, 4
+  index: -1
+title_copyright
+  rotate: false
+  xy: 2, 2
+  size: 206, 18
+  orig: 220, 20
+  offset: 7, 1
+  index: -1

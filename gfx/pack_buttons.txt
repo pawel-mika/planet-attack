@@ -1,0 +1,130 @@
+pack_buttons.png
+format: RGBA8888
+filter: MipMapLinearNearest,Linear
+repeat: none
+btn_back_p
+  rotate: false
+  xy: 114, 2
+  size: 110, 50
+  orig: 110, 50
+  offset: 0, 0
+  index: -1
+btn_ok
+  rotate: false
+  xy: 224, 158
+  size: 110, 50
+  orig: 110, 50
+  offset: 0, 0
+  index: -1
+btn_empty_long
+  rotate: false
+  xy: 226, 2
+  size: 220, 50
+  orig: 220, 50
+  offset: 0, 0
+  index: -1
+btn_options
+  rotate: false
+  xy: 2, 210
+  size: 220, 50
+  orig: 220, 50
+  offset: 0, 0
+  index: -1
+checkbox_p
+  rotate: false
+  xy: 2, 366
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+btn_manual_p
+  rotate: false
+  xy: 2, 158
+  size: 220, 50
+  orig: 220, 50
+  offset: 0, 0
+  index: -1
+btn_start_p
+  rotate: false
+  xy: 224, 314
+  size: 220, 50
+  orig: 220, 50
+  offset: 0, 0
+  index: -1
+btn_quit
+  rotate: false
+  xy: 2, 262
+  size: 220, 50
+  orig: 220, 50
+  offset: 0, 0
+  index: -1
+btn_manual
+  rotate: false
+  xy: 224, 106
+  size: 220, 50
+  orig: 220, 50
+  offset: 0, 0
+  index: -1
+btn_back
+  rotate: false
+  xy: 2, 2
+  size: 110, 50
+  orig: 110, 50
+  offset: 0, 0
+  index: -1
+btn_quit_p
+  rotate: false
+  xy: 224, 262
+  size: 220, 50
+  orig: 220, 50
+  offset: 0, 0
+  index: -1
+btn_options_p
+  rotate: false
+  xy: 224, 210
+  size: 220, 50
+  orig: 220, 50
+  offset: 0, 0
+  index: -1
+btn_empty_long_p
+  rotate: false
+  xy: 2, 54
+  size: 220, 50
+  orig: 220, 50
+  offset: 0, 0
+  index: -1
+btn_ok_p
+  rotate: false
+  xy: 336, 158
+  size: 110, 50
+  orig: 110, 50
+  offset: 0, 0
+  index: -1
+btn_hiscore
+  rotate: false
+  xy: 224, 54
+  size: 220, 50
+  orig: 220, 50
+  offset: 0, 0
+  index: -1
+btn_hiscore_p
+  rotate: false
+  xy: 2, 106
+  size: 220, 50
+  orig: 220, 50
+  offset: 0, 0
+  index: -1
+btn_start
+  rotate: false
+  xy: 2, 314
+  size: 220, 50
+  orig: 220, 50
+  offset: 0, 0
+  index: -1
+checkbox
+  rotate: false
+  xy: 446, 314
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
